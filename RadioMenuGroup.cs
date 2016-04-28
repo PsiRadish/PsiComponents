@@ -1,6 +1,6 @@
 /*
  * Created in SharpDevelop
- * User: Radish
+ * Author: Kyle Fiegener
  * Date: 10/23/2010
  * Time: 7:30 PM
  */

@@ -1,5 +1,5 @@
 ﻿/*
- * Radish Anarcane
+ * Kyle Fiegener
  */
 
 using System;
@@ -18,7 +18,7 @@ namespace PsiComponents
         
         public PseudoConsole()
         {
-            ResourceManager resources = new ResourceManager("PsiRadish.PseudoConsole", Assembly.GetExecutingAssembly());
+            ResourceManager resources = new ResourceManager("PsiComponents.PseudoConsole", Assembly.GetExecutingAssembly());
             this.ConsoleText = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             

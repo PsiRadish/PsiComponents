@@ -1,5 +1,5 @@
 ﻿/*
- * User: Radish
+ * Author: Kyle Fiegener
  * Date: 10/26/2010
  * Time: 6:02 PM
  * Created in SharpDevelop
