@@ -40,12 +40,12 @@ namespace PsiComponents.Controls
     /// </summary>
     public class RadioMenuGroup /*implements*/: IEnumerable<ToolStripMenuItem>
     {
-        protected static ResourceManager resources;
+        // protected static ResourceManager resources;
         
-        static RadioMenuGroup()
-        {
-            resources = new ResourceManager(typeof(RadioMenuGroup).ToString(), Assembly.GetExecutingAssembly());
-        }
+        // static RadioMenuGroup()
+        // {
+        //     resources = new ResourceManager(typeof(RadioMenuGroup).ToString(), Assembly.GetExecutingAssembly());
+        // }
         
         protected string name = null;
         /// <summary>
