@@ -234,3 +234,7 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+# BACKUP ARCHIVES
+*backup.7z
+*backup.zip
